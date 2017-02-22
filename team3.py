@@ -7,7 +7,7 @@
 ####
 
 team_name = 'Octahedron'
-strategy_name = 'SIKE!!!'
+strategy_name = 'SIKE..!!!'
 strategy_description = '''\
 Collude first round. Collude, except in a round after getting 
 a severe punishment.'''
